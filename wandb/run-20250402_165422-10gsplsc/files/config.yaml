@@ -1,0 +1,33 @@
+wandb_version: 1
+
+policy_type:
+  desc: null
+  value: MlpPolicy
+env_id:
+  desc: null
+  value: network_gym_client
+RL_algo:
+  desc: null
+  value: system_default
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.12
+    cli_version: 0.15.8
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1743638062.714347
+    t:
+      1:
+      - 55
+      2:
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      - 35
+      4: 3.10.12
+      5: 0.15.8
+      8:
+      - 5

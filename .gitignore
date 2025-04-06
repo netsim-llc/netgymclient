@@ -1,1 +1,5 @@
-network_gym_client/common_config.json
+__pycache__
+wandb
+common_config.json
+myenv
+*.pyc

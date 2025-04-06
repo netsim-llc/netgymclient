@@ -38,7 +38,7 @@ def load_config_file(env_name):
     # prints all files
 
     #common_config.json is shared by all environments
-    f = open(FILE_PATH / 'common_config.json')
+    f = open(FILE_PATH / 'common_config_local.json')
     common_config_json = json.load(f)
     
     if env_name in env_list:

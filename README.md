@@ -29,5 +29,5 @@
 5. run the example python3 script for celllular RAN slicing (https://intellabs.github.io/networkgym/environments/mx_network_slicing/cellular_network_slicing.html#cards-mx-cellular-slicing) 
 
 ```
-    python3 start_client_slicing.py 
+    python3 start_client_network_slicing.py 
 ```
